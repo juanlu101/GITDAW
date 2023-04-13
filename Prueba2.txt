@@ -1,12 +1,13 @@
 Hola soy el documento 2
 
 Hola estoy en la rama DAW1 modificando cosas.
-<<<<<<< HEAD
+
 
 Ahora con INTERFAZ GRÁFICA
 
 
 prueba segunda clase de daw
-=======
+
 PROBANDO PULL
->>>>>>> master
+
+probando cancelar commit
